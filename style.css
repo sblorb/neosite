@@ -1,9 +1,28 @@
-/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
-   HTML content. To learn how to do something, just try searching Google for questions like
-   "how to change link color." */
+/* General non-specific style sheet for the site */
 
 body {
-  background-color: white;
+  background-image: url("./graphics/tic-tac-toe.png");
+  background-repeat: repeat;
   color: black;
   font-family: Verdana;
+  margin: 3% 8%;
+}
+
+h1{
+	text-align: center;
+}
+
+.main-content{
+	background-color: white;
+	padding: 1%;
+	border-style: solid;
+	border-width: 5px;
+	border-color: black;
+	border-radius: 10px;
+}
+
+.header, #header{
+	text-align: center;
+	color: red;
+	border-bottom: 5px solid black;
 }

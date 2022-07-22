@@ -1,3 +1,10 @@
 ===GRAPHICS===
 
 Background images from https://www.toptal.com/designers/subtlepatterns/
+
+
+===HEADER AAAAGH===
+I wanted to have the code pulled in from a separate file (a la php include), but it just. doesn't work.
+
+https://www.w3schools.com/howto/howto_html_include.asp
+https://stackoverflow.com/questions/8988855/include-another-html-file-in-a-html-file
